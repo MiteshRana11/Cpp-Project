@@ -1,4 +1,3 @@
-# C-Project
 # C++ Projects
 
 This repository contains several console-based projects built using **C++** to strengthen my understanding of object-oriented programming, STL containers, and application design.
