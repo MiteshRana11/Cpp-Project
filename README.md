@@ -81,7 +81,8 @@ The goal of this repository is to build a strong foundation in **C++ programming
 ---
 
 ## Author
-
-**Mitesh Rana**
+**[Mitesh Rana](https://github.com/Miteshrana11)**
 
 B.Tech Student | Aspiring Software Developer
+
+---
