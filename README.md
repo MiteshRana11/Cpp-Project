@@ -40,14 +40,12 @@ These projects are part of my learning journey where I started with **C programm
 
 ## Repository Structure
 
-Cpp-Projects
-│
-├── 01-Simple-Calculator
-├── 02-Dictionary-App
-├── 03-Rock-Paper-Scissors
-├── 04-ATM-Management-System
-├── 05-Currency-Converter
-└── 06-Tic-Tac-Toe
+01-Simple-Calculator
+02-Dictionary-App
+03-Rock-Paper-Scissors
+04-ATM-Management-System
+05-Currency-Converter
+06-Tic-Tac-Toe
 
 Each project contains:
 
