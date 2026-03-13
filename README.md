@@ -40,12 +40,12 @@ These projects are part of my learning journey where I started with **C programm
 
 ## Repository Structure
 
-01-Simple-Calculator
-02-Dictionary-App
-03-Rock-Paper-Scissors
-04-ATM-Management-System
-05-Currency-Converter
-06-Tic-Tac-Toe
+1. **Simple Calculator**
+2. **Dictionary App**
+3. **Rock Paper Scissors Game**
+4. **ATM Management System**
+5. **Currency Converter**
+6. **Tic Tac Toe Game**
 
 Each project contains:
 
